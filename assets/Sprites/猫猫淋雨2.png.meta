@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "22b4c0a9-eb61-4403-a8fd-c56b5f545aa2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 177,
+  "height": 148,
+  "platformSettings": {},
+  "subMetas": {
+    "猫猫淋雨2": {
+      "ver": "1.0.4",
+      "uuid": "086a84c9-c5c5-46b2-9a50-36cab4c587be",
+      "rawTextureUuid": "22b4c0a9-eb61-4403-a8fd-c56b5f545aa2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 177,
+      "height": 148,
+      "rawWidth": 177,
+      "rawHeight": 148,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

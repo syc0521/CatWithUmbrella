@@ -1,0 +1,36 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "@byted-creative/camera": {
+      "version": "0.0.17",
+      "resolved": "https://registry.npmjs.org/@byted-creative/camera/-/camera-0.0.17.tgz",
+      "integrity": "sha512-3+zO/Jh2LRRntGWbfdj1coQu9h4ZaQ+7oND9BH9rkMEKmerJg8YloWpGe8fdq8Ez58a69gHsMIszBsavreyXEg==",
+      "requires": {
+        "eventemitter3": "^4.0.4"
+      }
+    },
+    "@byted-creative/camera-cocos-layer": {
+      "version": "0.0.17",
+      "resolved": "https://registry.npmjs.org/@byted-creative/camera-cocos-layer/-/camera-cocos-layer-0.0.17.tgz",
+      "integrity": "sha512-N13QYULH7W3pbiFGvUmZJLl/DVwbRUs7/fAPXo0h1lxyv9gK/9Ics9XggmjCYEjyU+7Z0kecpBOg8y16fEOjeQ==",
+      "requires": {
+        "@byted-creative/camera": "^0.0.17"
+      }
+    },
+    "@byted-creative/camera-face": {
+      "version": "0.0.17",
+      "resolved": "https://registry.npmjs.org/@byted-creative/camera-face/-/camera-face-0.0.17.tgz",
+      "integrity": "sha512-Qm7IhEAUf7J385APDStIPFJ31MPpGjTi1OZheJA3in0sxYan0Y57aQgFfVq9GGC9qaTlfi6/sdjmzymbHzzXNg==",
+      "requires": {
+        "@byted-creative/camera": "^0.0.17",
+        "eventemitter3": "^4.0.4"
+      }
+    },
+    "eventemitter3": {
+      "version": "4.0.6",
+      "resolved": "https://registry.npmjs.org/eventemitter3/-/eventemitter3-4.0.6.tgz",
+      "integrity": "sha512-s3GJL04SQoM+gn2c14oyqxvZ3Pcq7cduSDqy3sBFXx6UPSUmgVYwQM9zwkTn9je0lrfg0gHEwR42pF3Q2dCQkQ=="
+    }
+  }
+}
